@@ -11,3 +11,6 @@ secure login information for your instances using key pairs(aws stores public ke
 persistent storage volumes using amazon elastic block storage
 A firewall enable protocols,ports and source ip ranges using security groups
 Static IPv4 addresses of dynamic cloud computing such as Elastic IP address
+==============================================================
+what is instance?
+Instance is a virtual server in aws cloud..with amazon ec2 you can setup and configure the operating system and applications run on your instance
