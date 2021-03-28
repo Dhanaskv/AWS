@@ -6,4 +6,14 @@ VARIOUS pricing models is there:
 2)Reserverd Instances
 3)Dedicated Hosts
 4)spot instances
+=============
+
+Security Group:
+
+security group acts as a virtual firewall for ec2 instance 
+control incoming and outgoing traffic
+
+Filters incoming and outgoing traffic from instances
+
+
 
