@@ -1,0 +1,18 @@
+vpc stands for virtual private cloud
+vpc is virtual network dedicated to your aws account
+logically isolated from the other network in the aws cloud
+
+what is subnet?
+subnet is a range of IP address in vpc
+we can launch aws resources in specified subnet
+there are two type of subnets
+ 
+public subnet and private subnet
+
+public subnet for resources that must be connected to the internet
+private subnet for resources won't connect to the internet
+
+what is route table?
+
+route table contains set of rules called routes
+determine which way to forward traffic
