@@ -1,3 +1,12 @@
+VPC Components in AWS Cloud:
+1)vpc CIDR block
+2)subnet
+3)Route tables
+4)Internet gateway
+5)NAT gateway
+6)NACL
+7)Security group
+
 vpc stands for virtual private cloud
 vpc is virtual network dedicated to your aws account
 logically isolated from the other network in the aws cloud
@@ -11,6 +20,8 @@ public subnet and private subnet
 
 public subnet for resources that must be connected to the internet
 private subnet for resources won't connect to the internet
+
+
 
 what is route table?
 
