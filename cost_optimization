@@ -1,0 +1,8 @@
+AWS enables to take control of cost optimization 
+1.Rightsizing EC2 Instances
+2. Scheduling on/off times
+3. Purchasing Reserved Instances
+4. Delete unattached EBS volumes
+
+5. Delete obsolete snapshots
+6. Release unattached Elastic IP addresses
