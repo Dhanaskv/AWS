@@ -2,7 +2,7 @@ Amazon EC2 provides a scalable computing capacity in aws cloud
 amazon ec2 eliminates you need to invest in hardware upfront
 so you can develop and deploy appliation faster
 you can use amazon ec2 as many or few virtual servers as your need,configure security,manage storage.
-========================================================
+=========================================================
 #Features of AWS:
 Virtual Computing environments Known as Instances
 preconfigured templates for instances
