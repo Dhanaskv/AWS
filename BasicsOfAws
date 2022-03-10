@@ -1,4 +1,20 @@
-AWS cloud computing provides a on-demand delivery of servies through internet  with pay-as-you-pricing. Instead of buying,owning and maintaining the physical data centers and servers.
+what is cloud computing ?
+AWS cloud computing provides a on-demand delivery of servies through internet  with pay-as-you-go pricing. Instead of buying,owning and maintaining the physical data centers and servers.
+
+Types of cloud computing ?
+
+1) IaaS ( Infrastructure as a service )
+      IaaS contains the basic building blocks for cloud IT. They provides a networking features, computers, data storage 
+      ex : AWS
+       
+2) PaaS ( Platform as a service )
+      PaaS removes the need for underlying infrastructure( usually hardware and operating systems ) and allows you to focus 
+      on deployment and management of your applications.
+       
+3) SaaS ( Software as a service)
+       SaaS provides you with complete product that is run and managed by a service provider. Web based email is the example for SaaS. 
+       We don't think about how the service maintained or how the underlying infrastructre is maintained. you only need how to use that particular software
+        Ex : Email, O365
 
 
 
