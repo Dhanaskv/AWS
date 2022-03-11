@@ -1,4 +1,12 @@
 IAM - Identity and Access Management
 AWS IAM is a service that helps securly control access to AWS resources
 
-IAM Components 
+IAM Components - Users, Groups, Roles, Policies, Access advisor, Credential report, Access Analyzer, Organization
+
+Types of users : 1) Root User - The root user is created when the account is created    2) IAM User - IAM users are created by root user or an IAM administrator for the account
+
+Managed policies :
+1)AWS managed policies - created and managed by AWS
+2)Customer managed policies - created and managed by AWS account owner
+
+IAM user - An AWS Identity and Access Management (IAM) user is an entity that you create in AWS to represent the person that uses it to interact with AWS.
