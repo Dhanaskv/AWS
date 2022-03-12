@@ -19,3 +19,7 @@ we can use credential report for auditing and compliance efforts
 
 User Groups - IAM user group is a collection of IAM users
               User group is a way to attach policies to multiple users at one time
+              
+              
+Access Analyzer - AWS IAM access analyzer helps to identifies the resources in organization or account from access the zone of trust or not such as s3 buckets              
+              
