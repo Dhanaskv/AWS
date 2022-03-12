@@ -10,3 +10,11 @@ Managed policies :
 2)Customer managed policies - created and managed by AWS account owner
 
 IAM user - An AWS Identity and Access Management (IAM) user is an entity that you create in AWS to represent the person that uses it to interact with AWS.
+
+MFA - Multi Factor Authentication is a best practice for extra layer security of protection on top username and password
+
+Credentials report - You can generate and download the credentials report that list all users in your account and the status of their various credentials including passwords, 
+access keys and MFA devices.
+we can use credential report for auditing and compliance efforts 
+
+User Groups - 
