@@ -28,3 +28,11 @@ Policies - You manage access in AWS by creating policies and attaching them to I
            Permissions in policies defines whether the request is allowed or not
            Most of the policies are stored in AWS as a JSON documents 
            
+           
+ Inline Policies - Inline policies are policies that create, manage and embed directly into the user, group or role
+                   when you delete the user,group or role, in which inline policy is embedded, the policy will also deleted
+                   AWS would recommands managed policies 
+                   
+                   
+                   
+           
