@@ -22,4 +22,9 @@ User Groups - IAM user group is a collection of IAM users
               
               
 Access Analyzer - AWS IAM access analyzer helps to identifies the resources in organization or account from access the zone of trust or not such as s3 buckets              
-              
+          
+Policies - You manage access in AWS by creating policies and attaching them to IAM identities ( Users, group of users or roles, AWS resources )
+           A policy is an object in AWS when it associated with resources, defines their permissions
+           Permissions in policies defines whether the request is allowed or not
+           Most of the policies are stored in AWS as a JSON documents 
+           
