@@ -17,4 +17,5 @@ Credentials report - You can generate and download the credentials report that l
 access keys and MFA devices.
 we can use credential report for auditing and compliance efforts 
 
-User Groups - 
+User Groups - IAM user group is a collection of IAM users
+              User group is a way to attach policies to multiple users at one time
