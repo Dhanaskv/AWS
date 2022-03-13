@@ -32,6 +32,8 @@ Policies - You manage access in AWS by creating policies and attaching them to I
  Inline Policies - Inline policies are policies that create, manage and embed directly into the user, group or role
                    when you delete the user,group or role, in which inline policy is embedded, the policy will also deleted
                    AWS would recommands managed policies 
+                
+ IAM Roles - AWS services used IAM roles in order to communicate between themselves.
                    
                    
                    
