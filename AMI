@@ -1,1 +1,4 @@
+AMI is a Amazon Machine Image
+AMI is a template that contains a software configuration ( Operating system, application server and applications ).
+From an AMI you launch an instance,  which is a copy of the AMI running as a virtual server in the cloud.
 
