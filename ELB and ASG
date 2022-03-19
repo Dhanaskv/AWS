@@ -1,1 +1,29 @@
-
+Scalability means that  system / an application can handle greater loads by adapting 
+There are two kinds of scalability in the cloud 
+           1) Vertical Scalability ( Increasing size of the Instance )
+           2) Horizontal Scalability ( Increase the number of instances or systems for your application ) 
+                  --> It implies  distributed systems
+                  
+                  
+                  
+ High Availability -- HA means running your application/ system in atleast 2 availabity zones
+ 
+ 
+ Load Balancer - Load balancers are servers that forward internet traffic to multiple EC2 instances downstream
+ why load balancer - 1) Spread load across multiple downstream instances
+                     2)Seamlessly handle failure of downstream instances
+                     3)Do regular health checks to your instances
+                     
+  Elastic Load Balancer is a managed load balancer 
+  AWS takes care of upgrades maintanence and high availabity
+  three kind of load balancers offered by AWS
+  1) Application load balancer
+  2) Network load balancer
+  3) Classic load balancer
+  
+  ASG - ( Auto Scaling Group )
+     -- The goal of ASG is to :
+                1) Scale out ( add EC2 instances to match an increase load )
+                2) Scale in (remove EC2 instances to match an decrease load )
+                
+                
