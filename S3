@@ -1,1 +1,35 @@
+Amazon S3 is the one of the main building blocks of AWS
+It advertised as "Infinitely scaling" storage.
+Many websites use amazon S3 as a backbone
+Many AWS services uses amazon S3 as an integration as well
 
+Amazon S3 allows people to stores objects (files ) in buckets ( directories )
+Buckets must have a globally unique name (across all regions all accounts ) 
+
+S3 Security 
+ 1) User Based
+      IAM Policies - Which API calls shoulb be allowed for a specific user from IAM console
+ 2) Resource Based
+      Bucket policy - directly rules attached to s3 buckets to allow or deny requests from other accounts or public access so on
+ 3) Encryption 
+      encrypt objects in amazon s3 using encryption keys
+      
+      
+      
+ JSON based policies :
+       1) Resources : objects and buckets 
+       2) Set API to allow or deny 
+       3) Effect : allow or deny
+       
+ S3 websites :
+       1) S3 can host static websites and have access them on www
+       
+ S3 Versioning :
+       1) you can version your files in amazon S3
+       2) It is enabled bucket level
+       
+ S3 access logs :
+       1) For audit purpose, you may want to log all access to S3 buckets
+       
+      
+      
