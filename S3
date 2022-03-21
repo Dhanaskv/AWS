@@ -31,5 +31,31 @@ S3 Security
  S3 access logs :
        1) For audit purpose, you may want to log all access to S3 buckets
        
+  S3 Replication :
+       1) We can enable replication for extra buckets
+       2) Must enable versioning source and destination 
+       3) Cross region replication or same regoin replication
+       
+  Storage classes :
+       1)amazon S3 standard - general standard
+       2)amazon S3 standard - Infrequent access
+       3)amazon S3 one zone - Infrequent access 
+       4)amazon S3 glacier instant retrieval
+       
+  S3 object lock & Glacier lock 
+       1) adopt WORM (write once read many )
+       2) block an object version deletion for specific amount of time
+     Glacier lock
+       1) adopt WORM (write once read many ) 
+       2) We can create lock policy that prevent future edits for that file
+       
+       
+  S3 Encryption 
+       1) No encryption
+       2) Server side encryption
+       3) client side encryption
+       
+   AWS Snow family 
+       
       
       
