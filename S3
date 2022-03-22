@@ -55,7 +55,24 @@ S3 Security
        2) Server side encryption
        3) client side encryption
        
-   AWS Snow family 
+   AWS Snow family :
+   
+   They have two use cases :
+       1) High-secure, portable devices to collect and process the data at the edge, and migrate the data into and out of AWS
        
-      
-      
+       Data migration :
+       1)snowcone - It is a much smaller than edge
+                    8 TB of storage usage
+       2)snowball edge - It is a huge box. it is used to move terabytes or petabytes of data moved into and out of AWS
+                         Provide block storage or S3 compatible object storage
+                         80 TB storage capacity
+       3)snowmobile - snowmobile is a actual truck. We can transfer exabytes of data  ( 1 EB = 1000 PB == 1,000,000 TB ) 
+                    - Each snowmobile has 100 PB of the capacity
+       
+       edge computing :
+       1)snowcone
+       2)snowball edge
+       
+  offline devices perform a data migration 
+  if it takes more than a week to transfer over the network use the snow family
+  
