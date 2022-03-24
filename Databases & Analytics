@@ -4,6 +4,25 @@ It makes easier to find relevant information
 Database is usually managed by DBMS 
 
 What is relationaldatabase
+Data is stored collection of tables and these tables are related to one another. Each tables consist of rows and columns
+
+Non-relational databases
+Data is stored in non-tabular form like JSON documents 
+
+AWS RDS overview :
+RDS stands for relational Database Services, we will be using SQL language for managed purposes
+1)MySQL
+2)MariaDB
+3)Oracle
+4)Aurora ( AWS proprietary database )
+
+Aurora :
+1)Aurora is a proprietary technology from AWS
+Amazon Elasticache
+
+
+
+
 
 
 
