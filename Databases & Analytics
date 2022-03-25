@@ -20,6 +20,43 @@ Aurora :
 1)Aurora is a proprietary technology from AWS
 Amazon Elasticache
 
+Amazon Elasticache :
+amazon elasticache is a web service that makes it easier to setup, manage and scale a distributed in-memory data-store or cache environment in the cloud
+1)Elasticache is to get managed redis or memcached.
+
+Dynamo DB :
+1)amazon Dynamo DB is a fully managed by Proprietary NOSQL database service that supports key value and document data-structures
+2) Distributed serverless database 
+3)DAX ( DynamoDB accelerator ) - fully managed in-memory cache for dynamoDB
+
+Redshift :
+1) Redshift is based on postgresql but not for OLTP
+2)Redshift is a OLAP - online analytical processing
+
+EMR - Elastic Mapreduce
+1) It helps to create a Hadoop clusters (big data) to analyze and process vast amount of data
+2) The clusters can be made hundreds of EC2 instances
+
+Athena - Athena is a serverless query service to perform analytics against s3 objects
+1) Use standard SQL language to query the files
+
+amazon QuickSight- Serverless machine learning-powered intelligence service to creative interactive dashboards
+
+DocumentDB :
+1)Aurora is AWS-implementation of postgresql/mysql
+2)DocumentDB is same for the mangoDB(NoSQL Database)
+
+Amazon Neptune :
+
+1)Fully managed graph database 
+
+1)Amazon QLDB - Quantum Ledger Database
+2)A ledger is a book recording financial transactions 
+
+AWS Glue - Managed Extract, Transform and Load service
+
+
+
 
 
 
